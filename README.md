@@ -21,7 +21,7 @@
 ### DOCUMENT START section
 1. In ```\name{Abhijit Rout}``` change it to your name replacing Abhijit Rout
 2. In ```\address{(+91)~$\cdot$~824xxxxxxx\\``` replace 824xxxxxxx with yout own contact number
-3. In```\href{mailto:abhijitrout.dev@gmail.com}{abhijitrout.dev@gmail.com} \\``` Replace with your own email address
+3. In```\href{mailto:abhijitxxxxxxxxxx@gmail.com}{abhijitxxxxxxxxxx@gmail.com} \\``` Replace with your own email address
    In```\href{https://www.github.com/oyeabhijit}{github.com/oyeabhijit} \\``` Replace the links with your own github link
    In```\href{https://www.linkedin.com/in/oyeabhijit}{linkedin.com/in/oyeabhijit}}``` Replace the links with your own linkedin link
 
