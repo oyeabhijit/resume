@@ -66,4 +66,4 @@ Tools & Tool 1, Tool 2, Tool 3, Tool 4
 * In the top right of PDF section, click download. It will download your resume in .pdf extension
 
 ### Preview
-![Resume Screenshot](/resumescreenshot.png)
+![Resume Screenshot](/resumess.png)
