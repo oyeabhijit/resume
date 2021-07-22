@@ -16,7 +16,7 @@
 7. Select resume.tex and resume.cls
 8. Edit the LaTeX file as you like
 
-* Remeber not to rename any of the files.
+* Remember not to rename any of the files.
 
 ### DOCUMENT START section
 1. In ```\name{Abhijit Rout}``` change it to your name replacing Abhijit Rout
